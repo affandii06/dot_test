@@ -1,0 +1,31 @@
+1. Sudah berap lama anda mulai menggunakan flutter
+
+- Saya sudah menggunakan flutter kurang lebih 1 tahun 
+
+2. Apa saja librari flutter yang sering anda pakai? jelaskan kegunaannya bagi anda!
+
+- Library yang sering saya pakai adalah provider untuk statemanagement. geolocator, geocoder, dan location untuk membuat funsi peta
+ataupun map dan address. Native splash screen agar mempurmudah membuat splash nativ, sehingga app tidak muncul layar putih kosong saat awal dibuka
+
+3. Jelaskan penerapan clean code atau desaign pattern yang biasa anda gunakan
+dan manfaatnya untuk anda!
+
+- design pattern yang biasa saya gunakan adalah mvvm dimana saya meletakkan view, service, dan model pada folder yang berbeda
+sehingga mempermudah saya dalam melakukan maintanence nantinya
+
+4. Apakah tantangan terbesar yang pernah anda temui dalam mengerjakan aplikasi flutter,
+dan bagaimana anda menyelesaikan dari sisi engineering,? misal dari sisi android dan ios
+
+- masalah terbesar saya adalah saat saya memulai karir pertama sebagai flutter developer,
+karna saya mendapatkan pekerjaan saya haya selang waktu 1 bulan setelah saya otodidak mempelajari flutter,
+sehingga saya belum bisa terbiasa dengan pengerjaan real project, namun seiring berjalan waktu dan saya selalu
+learning by doing, saya selalu bisa menyelesaikan project tepat waktu dan dengan hasil yang memuaskan
+
+5. Jelaskan teknik2 apa saja yang dapat mempercepat performa dan keamanan flutter!
+
+- mungkin teknik2 yang dimaksud saya kurang tau, namun yang biasa saya lakukan adalah dengan berusaha 
+sebisa mungkin menekan ukuran aplikasi flutter sendiri, dengan cara menggunakan assets image svg agar size yang diperlukan
+sedikit, lalu sebisa mungkin mengurangi penggunaan package atau library, dan juga membuar widget reusable, sehingga codingan akan lebih simple dan dapat menekan ukuran flutter sendiri
+
+untuk aplikasi yang sudah dibuild dapat di cek:
+dot_test\build\app\outputs\flutter-apk
